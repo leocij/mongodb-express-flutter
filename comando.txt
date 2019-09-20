@@ -1,0 +1,18 @@
+
+## Video aula
+https://www.youtube.com/watch?v=SBDI53ECgVk&t=80s
+5:45
+
+## BACKEND
+
+npm init -y
+
+npm i express mongoose morgan cors faker
+
+## FRONTEND FLUTTER
+
+flutter create usersapp
+
+# Executar pelo vscode
+Debug -> Start without debugging -> Escolha o emulador ou crie um
+
